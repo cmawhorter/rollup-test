@@ -25,3 +25,7 @@ TypeError: The super constructor to "inherits" must not be null or undefined
     at require (internal/module.js:20:19)
     at [eval]:1:13
 ```
+
+## workaround
+
+See `workaround` branch.
